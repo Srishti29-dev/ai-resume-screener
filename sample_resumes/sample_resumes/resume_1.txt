@@ -1,0 +1,25 @@
+Srishti Sinha
+Software Developer Intern | Data Analytics Enthusiast
+
+Skills: Java, SQL, Python, Power BI, Excel, Data Visualization, Pandas, Numpy,
+Git, Debugging, Problem Solving, Prompt Engineering, NLP, Gemini API
+
+Experience:
+Reactor Bee - Software Developer Intern (Nov 2025 - Apr 2026)
+- Developed and maintained backend features using Java, improving application
+  performance and code reliability.
+- Wrote and optimized SQL queries to manage database operations, reducing query
+  execution time and improving data retrieval efficiency.
+- Collaborated with the development team to debug and resolve issues, ensuring
+  smooth integration of new features.
+
+Projects:
+AI-Powered Resume/Text Analyzer - Built using Python, Gemini API, NLP, and Pandas
+to analyze resumes against job descriptions and generate match scores.
+
+Sales Performance Analytics Dashboard - Built using SQL, Power BI, and Excel to
+track KPIs such as revenue trends and regional performance.
+
+Education:
+Bachelor of Engineering, Electrical Engineering
+Savitribai Phule Pune University
