@@ -1,0 +1,19 @@
+Job Title: Junior Data Analyst
+
+We are looking for a Junior Data Analyst to join our growing data team.
+
+Responsibilities:
+- Write and optimize SQL queries to extract and analyze data from relational databases.
+- Build interactive dashboards using Power BI or Tableau to visualize key business metrics.
+- Perform data cleaning and preprocessing using Python (Pandas, Numpy).
+- Collaborate with cross-functional teams to identify data-driven insights.
+- Apply basic statistics and data visualization techniques to support decision-making.
+
+Requirements:
+- Proficiency in SQL and Excel.
+- Experience with Python for data analysis (Pandas, Numpy, Matplotlib).
+- Familiarity with Power BI or Tableau for data visualization.
+- Understanding of data cleaning and statistics fundamentals.
+- Strong problem solving and debugging skills.
+- Exposure to machine learning or NLP is a plus.
+- Familiarity with Git and version control is a plus.
